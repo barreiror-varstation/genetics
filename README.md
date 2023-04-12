@@ -8,7 +8,7 @@ A transferência de um PRS de uma população para outra pode ser uma tarefa dif
 
 REFERÊNCIAS:
 
-- (Tutorial: a guide to performing polygenic risk score analyses)[https://doi.org/10.1038/s41596-020-0353-1]
+- [Tutorial: a guide to performing polygenic risk score analyses](https://doi.org/10.1038/s41596-020-0353-1)
 
 ## PRS Hipertensão
 
@@ -16,7 +16,7 @@ O PRS tem sido utilizado para estudar a predisposição genética à hipertensã
 
 REFERÊNCIAS:
 
-- (Dissecting the Polygenic Basis of Primary Hypertension: Identification of Key Pathway-Specific Components.)[https://doi.org/10.3389/fcvm.2022.814502]
+- [Dissecting the Polygenic Basis of Primary Hypertension: Identification of Key Pathway-Specific Components.](https://doi.org/10.3389/fcvm.2022.814502)
 
 ## Sugestão de Projetos
 
